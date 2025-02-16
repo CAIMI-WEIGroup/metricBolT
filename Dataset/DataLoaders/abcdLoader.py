@@ -18,7 +18,7 @@ def Metric_abcdLoader(span, train):
     # print("当前工作目录:", os.getcwd())
     # present = os.getcwd()
     # print(os.listdir(present))
-    path = "/Dataset/spilt_subjects/"+span+"/"
+    path = "/Dataset/split_subjects/"+span+"/"
     if(train == "train"):
         path = path + "train.txt"
     elif(train == "val"):
