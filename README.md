@@ -154,7 +154,7 @@ zipp                    3.17.0
 
 # Dataset
 
-In this study, we evaluated our method using both the Adolescent Brain Cognitive Development (ABCD) Study dataset and the Human Connectome Project (HCP) dataset. For demonstration purposes, we provide a subset of the ABCD dataset consisting of 16 subjects with fMRI time series data collected across three time points: baseline, second-year follow-up, and fourth-year follow-up. The data can be found in the `MetricBolT/Dataset/Data` directory.
+In this study, we evaluated our method using both the Adolescent Brain Cognitive Development (ABCD) Study dataset and the Human Connectome Project (HCP) dataset. For demonstration purposes, we provide a subset of the ABCD dataset consisting of 16 subjects with fMRI time series data collected across three time points: baseline, second-year follow-up, and fourth-year follow-up. The data can be found in the `MetricBolT/Dataset/Data` directory.To facilitate method evaluation, this subset has been pre-split into training and testing sets, which are available under MetricBolT/Dataset/spilt_subjects/
 
 # Train and Testing
 
