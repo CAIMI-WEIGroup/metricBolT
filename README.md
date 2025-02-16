@@ -1,8 +1,8 @@
-# metricBolT
+# MetricBolT
 - [Overview](#overview)
-- [Python Dependencies](#Python Dependencies)
+- [Python Dependencies](#(Python Dependencies))
 - [Dataset](#Dataset)
-- [Train and Testing](#Train and Testing)
+- [Train and Testing](#(Train and Testing))
 - [Interpretability ](Interpretability)
 
 # Overview
